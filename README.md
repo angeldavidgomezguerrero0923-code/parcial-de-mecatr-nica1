@@ -113,16 +113,10 @@ Ejemplo de cómo insertar una imagen en este README una vez subida:
 ![Montaje físico](evidencias/montaje_fisico/foto1.jpg)
 ```
 
-## 8. Enlace o evidencia de funcionamiento
 
-> Agrega aquí el video del circuito funcionando. Si el archivo es muy grande para GitHub, puedes subirlo a YouTube (como "No listado"), Google Drive o similar, y pegar el enlace aquí.
 
-- Video del funcionamiento: [pega aquí el enlace]
-
----
 
 ## Integrantes del grupo
 
-- Nombre 1
-- Nombre 2
-- Nombre 3
+- Angel terryl
+- Andres bravo
